@@ -52,5 +52,6 @@ Construir carreira na área de **Cibersegurança**, atuando com:
 
 ## 📫 Contato
 
-🔗 LinkedIn: https://www.linkedin.com/in/SEU-LINK-AQUI  
-📂 GitHub: https://github.com/zyrafaxx
+🔗 LinkedIn: https://www.linkedin.com/in/rafael-leal-8916053b4/  
+celular: (34) 9 9313-3928.
+email: rafaellealgomes142@gmail.com
