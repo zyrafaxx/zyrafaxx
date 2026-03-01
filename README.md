@@ -56,3 +56,9 @@ Construir carreira na área de **Cibersegurança**, atuando com:
 🔗 LinkedIn: https://www.linkedin.com/in/rafael-leal-8916053b4/  
 celular: (34) 9 9313-3928.
 email: rafaellealgomes142@gmail.com
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zyrafaxx/zyrafaxx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zyrafaxx/zyrafaxx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zyrafaxx/zyrafaxx/output/pacman-contribution-graph.svg">
+</picture>
