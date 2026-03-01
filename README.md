@@ -37,6 +37,7 @@ Estou em constante evolução, buscando transformar conhecimento teórico em pr�
 - Análise de Vulnerabilidades
 - Conceitos de Redes
 - Boas práticas de desenvolvimento seguro
+- Arquitetura de Software
 
 ---
 
