@@ -31,4 +31,4 @@ Construir carreira na área de Cibersegurança, atuando com proteção de sistem
 ---
 
 📫 Você pode me encontrar no LinkedIn:  
-(coloque aqui o link do seu LinkedIn)
+(https://www.linkedin.com/in/rafael-leal-8916053b4/)
