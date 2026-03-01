@@ -8,27 +8,49 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante no início do segundo ano de Engenharia de Software, com forte interesse na área de Cibersegurança.  
-Atualmente desenvolvo minha base em lógica de programação, C e C#, e participo do programa Hackers do Bem para aprofundar meus conhecimentos em segurança digital.
+Sou estudante no início do segundo ano de Engenharia de Software com direcionamento claro para a área de Cibersegurança.
 
-Estou em constante evolução e buscando oportunidades para aplicar meus conhecimentos na prática.
-
----
-
-## 💻 Tecnologias que estou aprendendo
-
+Atualmente desenvolvo minha base sólida em:
+- Lógica de Programação
 - C
 - C#
-- Lógica de Programação
 - Fundamentos de Segurança da Informação
 
----
+Também participo do programa **Hackers do Bem**, aprofundando conhecimentos em proteção de sistemas, análise de vulnerabilidades e boas práticas de segurança digital.
 
-## 🎯 Objetivo
-
-Construir carreira na área de Cibersegurança, atuando com proteção de sistemas, análise de vulnerabilidades e defesa contra ataques digitais.
+Estou em constante evolução, buscando transformar conhecimento teórico em prática através de projetos e estudos contínuos.
 
 ---
 
-📫 Você pode me encontrar no LinkedIn:  
-(https://www.linkedin.com/in/rafael-leal-8916053b4/)
+## 🛠 Tecnologias & Ferramentas
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+
+---
+
+## 📚 Atualmente Estudando
+
+- Fundamentos de Cibersegurança
+- Análise de Vulnerabilidades
+- Conceitos de Redes
+- Boas práticas de desenvolvimento seguro
+
+---
+
+## 🎯 Objetivo Profissional
+
+Construir carreira na área de **Cibersegurança**, atuando com:
+- Proteção de sistemas
+- Segurança ofensiva e defensiva
+- Monitoramento e análise de ameaças
+- Segurança de aplicações
+
+---
+
+## 📫 Contato
+
+🔗 LinkedIn: https://www.linkedin.com/in/SEU-LINK-AQUI  
+📂 GitHub: https://github.com/zyrafaxx
